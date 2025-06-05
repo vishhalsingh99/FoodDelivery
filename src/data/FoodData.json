@@ -1,0 +1,1281 @@
+[
+    {
+        "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+                "id": "109752424",
+                "name": "Lal Jamun 500gm",
+                "category": "Sweets",
+                "description": "Lal jamun",
+                "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/2/12/c5242364-3ccf-4f94-92a7-5a5de772c82d_674fb3eb-0e7c-4ebc-8412-f0fcdfd484c8.jpg",
+                "inStock": 1,
+                "isVeg": 1,
+                "price": 27400,
+                "finalPrice": 24700,
+                "variants": {
+                    "variantGroups": [
+                        {
+                            "groupId": "49820825",
+                            "name": "Quantity",
+                            "variations": [
+                                {
+                                    "name": "1 Kg",
+                                    "price": 27400,
+                                    "default": 1,
+                                    "id": "156314358",
+                                    "inStock": 1,
+                                    "isVeg": 1,
+                                    "isEnabled": 1
+                                },
+                                {
+                                    "name": "500 Gms",
+                                    "id": "156314359",
+                                    "inStock": 1,
+                                    "isVeg": 1,
+                                    "isEnabled": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "variantsV2": {},
+                "itemAttribute": {
+                    "vegClassifier": "VEG"
+                },
+                "ribbon": {},
+                "showImage": true,
+                "offerTags": [
+                    {
+                        "title": "10% OFF",
+                        "textColor": "#DB6742",
+                        "backgroundColor": "#FAE8E3",
+                        "matchText": "SILD"
+                    }
+                ],
+                "itemBadge": {},
+                "badgesV2": {},
+                "itemNudgeType": "CouponlessSild",
+                "ratings": {
+                    "aggregatedRating": {
+                        "rating": "4.9",
+                        "ratingCount": "8 ratings",
+                        "ratingCountV2": "8"
+                    }
+                },
+                "offerIds": [
+                    "7f9002ab-5637-47fe-aacd-940f1759b131"
+                ]
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+        }
+    },
+    {
+        "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+                "id": "110729625",
+                "name": "Pink Sandwich ",
+                "category": "Sweets",
+                "description": "Chena items",
+                "imageId": "fwwd8fdomj6zvky50ti6",
+                "inStock": 1,
+                "isVeg": 1,
+                "price": 4000,
+                "finalPrice": 3600,
+                "variants": {},
+                "variantsV2": {},
+                "itemAttribute": {
+                    "vegClassifier": "VEG"
+                },
+                "ribbon": {},
+                "showImage": true,
+                "offerTags": [
+                    {
+                        "title": "10% OFF",
+                        "textColor": "#DB6742",
+                        "backgroundColor": "#FAE8E3",
+                        "matchText": "SILD"
+                    }
+                ],
+                "itemBadge": {},
+                "badgesV2": {},
+                "itemNudgeType": "CouponlessSild",
+                "ratings": {
+                    "aggregatedRating": {
+                        "rating": "4.9",
+                        "ratingCount": "9 ratings",
+                        "ratingCountV2": "9"
+                    }
+                },
+                "offerIds": [
+                    "7f9002ab-5637-47fe-aacd-940f1759b131"
+                ]
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+        }
+    },
+    {
+        "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+                "id": "110729803",
+                "name": "Malai Chap ",
+                "category": "Sweets",
+                "description": "Chena items",
+                "imageId": "hjg4gqs0f3vl60wnl3go",
+                "inStock": 1,
+                "isVeg": 1,
+                "price": 4000,
+                "finalPrice": 3600,
+                "variants": {},
+                "variantsV2": {},
+                "itemAttribute": {
+                    "vegClassifier": "VEG"
+                },
+                "ribbon": {},
+                "showImage": true,
+                "offerTags": [
+                    {
+                        "title": "10% OFF",
+                        "textColor": "#DB6742",
+                        "backgroundColor": "#FAE8E3",
+                        "matchText": "SILD"
+                    }
+                ],
+                "itemBadge": {},
+                "badgesV2": {},
+                "itemNudgeType": "CouponlessSild",
+                "ratings": {
+                    "aggregatedRating": {
+                        "rating": "4.2",
+                        "ratingCount": "14 ratings",
+                        "ratingCountV2": "14"
+                    }
+                },
+                "offerIds": [
+                    "7f9002ab-5637-47fe-aacd-940f1759b131"
+                ]
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+        }
+    },
+    {
+        "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+                "id": "110730335",
+                "name": "Pakija ",
+                "category": "Sweets",
+                "description": "Chena items",
+                "imageId": "wfmannzb5m7g48wx9rtz",
+                "inStock": 1,
+                "isVeg": 1,
+                "price": 4000,
+                "finalPrice": 3600,
+                "variants": {},
+                "variantsV2": {},
+                "itemAttribute": {
+                    "vegClassifier": "VEG"
+                },
+                "ribbon": {},
+                "showImage": true,
+                "offerTags": [
+                    {
+                        "title": "10% OFF",
+                        "textColor": "#DB6742",
+                        "backgroundColor": "#FAE8E3",
+                        "matchText": "SILD"
+                    }
+                ],
+                "itemBadge": {},
+                "badgesV2": {},
+                "itemNudgeType": "CouponlessSild",
+                "ratings": {
+                    "aggregatedRating": {}
+                },
+                "offerIds": [
+                    "7f9002ab-5637-47fe-aacd-940f1759b131"
+                ]
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+        }
+    },
+    {
+        "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+                "id": "153753023",
+                "name": "Balushahi",
+                "category": "Sweets",
+                "description": "A delectable Indian sweet that boasts a perfect blend of flaky and syrupy textures.",
+                "imageId": "bnvxplizkdxoy6detn2t",
+                "inStock": 1,
+                "isVeg": 1,
+                "price": 14300,
+                "finalPrice": 12900,
+                "variants": {
+                    "variantGroups": [
+                        {
+                            "groupId": "49823385",
+                            "name": "Quantity",
+                            "variations": [
+                                {
+                                    "name": "1 Kg",
+                                    "price": 42900,
+                                    "default": 1,
+                                    "id": "156319963",
+                                    "inStock": 1,
+                                    "isVeg": 1,
+                                    "isEnabled": 1
+                                },
+                                {
+                                    "name": "500 Gms",
+                                    "price": 14300,
+                                    "id": "156319964",
+                                    "inStock": 1,
+                                    "isVeg": 1,
+                                    "isEnabled": 1
+                                },
+                                {
+                                    "name": "250 G",
+                                    "id": "156379841",
+                                    "inStock": 1,
+                                    "isVeg": 1,
+                                    "isEnabled": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "variantsV2": {},
+                "itemAttribute": {
+                    "vegClassifier": "VEG"
+                },
+                "ribbon": {},
+                "showImage": true,
+                "offerTags": [
+                    {
+                        "title": "10% OFF",
+                        "textColor": "#DB6742",
+                        "backgroundColor": "#FAE8E3",
+                        "matchText": "SILD"
+                    }
+                ],
+                "itemBadge": {},
+                "badgesV2": {},
+                "itemNudgeType": "CouponlessSild",
+                "ratings": {
+                    "aggregatedRating": {
+                        "rating": "4.8",
+                        "ratingCount": "3 ratings",
+                        "ratingCountV2": "3"
+                    }
+                },
+                "offerIds": [
+                    "7f9002ab-5637-47fe-aacd-940f1759b131"
+                ]
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+        }
+    },
+    {
+        "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+                "id": "153753203",
+                "name": "Besan Burfi",
+                "category": "Sweets",
+                "description": "A delightful and delectable Indian sweet made with besan, perfect to satisfy your sweet tooth.",
+                "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/9/17/53e8ac4a-770f-4f60-9891-f9a69e368286_fe67afd3-0754-43b4-b9ff-0af245683b04.jpg",
+                "inStock": 1,
+                "isVeg": 1,
+                "price": 28600,
+                "finalPrice": 25700,
+                "variants": {
+                    "variantGroups": [
+                        {
+                            "groupId": "49823448",
+                            "name": "Quantity",
+                            "variations": [
+                                {
+                                    "name": "1 Kg",
+                                    "price": 28600,
+                                    "default": 1,
+                                    "id": "156320096",
+                                    "inStock": 1,
+                                    "isVeg": 1,
+                                    "isEnabled": 1
+                                },
+                                {
+                                    "name": "500 Gms",
+                                    "id": "156320097",
+                                    "inStock": 1,
+                                    "isVeg": 1,
+                                    "isEnabled": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "variantsV2": {},
+                "itemAttribute": {
+                    "vegClassifier": "VEG"
+                },
+                "ribbon": {},
+                "showImage": true,
+                "offerTags": [
+                    {
+                        "title": "10% OFF",
+                        "textColor": "#DB6742",
+                        "backgroundColor": "#FAE8E3",
+                        "matchText": "SILD"
+                    }
+                ],
+                "itemBadge": {},
+                "badgesV2": {},
+                "itemNudgeType": "CouponlessSild",
+                "ratings": {
+                    "aggregatedRating": {}
+                },
+                "offerIds": [
+                    "7f9002ab-5637-47fe-aacd-940f1759b131"
+                ]
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+        }
+    },
+    {
+        "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+                "id": "153753651",
+                "name": "Kala Jamun",
+                "category": "Sweets",
+                "description": "A delectable and indulgent sweet treat that will melt in your mouth.",
+                "imageId": "kx18ij0fv21igyiwfzlx",
+                "inStock": 1,
+                "isVeg": 1,
+                "price": 27400,
+                "finalPrice": 24700,
+                "variants": {
+                    "variantGroups": [
+                        {
+                            "groupId": "49823537",
+                            "name": "Quantity",
+                            "variations": [
+                                {
+                                    "name": "1 Kg",
+                                    "price": 27400,
+                                    "default": 1,
+                                    "id": "156320283",
+                                    "inStock": 1,
+                                    "isVeg": 1,
+                                    "isEnabled": 1
+                                },
+                                {
+                                    "name": "500 Gms",
+                                    "id": "156320284",
+                                    "inStock": 1,
+                                    "isVeg": 1,
+                                    "isEnabled": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "variantsV2": {},
+                "itemAttribute": {
+                    "vegClassifier": "VEG"
+                },
+                "ribbon": {},
+                "showImage": true,
+                "offerTags": [
+                    {
+                        "title": "10% OFF",
+                        "textColor": "#DB6742",
+                        "backgroundColor": "#FAE8E3",
+                        "matchText": "SILD"
+                    }
+                ],
+                "itemBadge": {},
+                "badgesV2": {},
+                "itemNudgeType": "CouponlessSild",
+                "ratings": {
+                    "aggregatedRating": {
+                        "rating": "4.9",
+                        "ratingCount": "4 ratings",
+                        "ratingCountV2": "4"
+                    }
+                },
+                "offerIds": [
+                    "7f9002ab-5637-47fe-aacd-940f1759b131"
+                ]
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+        }
+    },
+    {
+        "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+                "id": "153754792",
+                "name": "Kali Rasbhari",
+                "category": "Sweets",
+                "description": "Indulge in the rich and luscious flavors of this delectable Indian sweet treat.",
+                "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/9/17/d4c8f62a-6421-4404-980c-8e9a86277c24_79b5c400-07df-467b-8af4-9026a6d07789.jpeg",
+                "inStock": 1,
+                "isVeg": 1,
+                "price": 27400,
+                "finalPrice": 24700,
+                "variants": {
+                    "variantGroups": [
+                        {
+                            "groupId": "49823654",
+                            "name": "Quantity",
+                            "variations": [
+                                {
+                                    "name": "1 Kg",
+                                    "price": 27400,
+                                    "default": 1,
+                                    "id": "156320587",
+                                    "inStock": 1,
+                                    "isVeg": 1,
+                                    "isEnabled": 1
+                                },
+                                {
+                                    "name": "500 Gms",
+                                    "id": "156320588",
+                                    "inStock": 1,
+                                    "isVeg": 1,
+                                    "isEnabled": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "variantsV2": {},
+                "itemAttribute": {
+                    "vegClassifier": "VEG"
+                },
+                "ribbon": {},
+                "showImage": true,
+                "offerTags": [
+                    {
+                        "title": "10% OFF",
+                        "textColor": "#DB6742",
+                        "backgroundColor": "#FAE8E3",
+                        "matchText": "SILD"
+                    }
+                ],
+                "itemBadge": {},
+                "badgesV2": {},
+                "itemNudgeType": "CouponlessSild",
+                "ratings": {
+                    "aggregatedRating": {}
+                },
+                "offerIds": [
+                    "7f9002ab-5637-47fe-aacd-940f1759b131"
+                ]
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+        }
+    },
+    {
+        "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+                "id": "153755665",
+                "name": "Lal Rasbhari",
+                "category": "Sweets",
+                "description": "Indulge in the delectable flavors of this traditional Indian sweet, offering a burst of sweetness in every bite.",
+                "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/9/17/03f59b02-7ebd-4703-bf35-23acdb7636b2_623fca2d-0b3a-4e1a-9117-cf8f96389d70.jpg",
+                "inStock": 1,
+                "isVeg": 1,
+                "price": 27400,
+                "finalPrice": 24700,
+                "variants": {
+                    "variantGroups": [
+                        {
+                            "groupId": "49823819",
+                            "name": "Quantity",
+                            "variations": [
+                                {
+                                    "name": "1 Kg",
+                                    "price": 27400,
+                                    "default": 1,
+                                    "id": "156320944",
+                                    "inStock": 1,
+                                    "isVeg": 1,
+                                    "isEnabled": 1
+                                },
+                                {
+                                    "name": "500 Gms",
+                                    "id": "156320945",
+                                    "inStock": 1,
+                                    "isVeg": 1,
+                                    "isEnabled": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "variantsV2": {},
+                "itemAttribute": {
+                    "vegClassifier": "VEG"
+                },
+                "ribbon": {},
+                "showImage": true,
+                "offerTags": [
+                    {
+                        "title": "10% OFF",
+                        "textColor": "#DB6742",
+                        "backgroundColor": "#FAE8E3",
+                        "matchText": "SILD"
+                    }
+                ],
+                "itemBadge": {},
+                "badgesV2": {},
+                "itemNudgeType": "CouponlessSild",
+                "ratings": {
+                    "aggregatedRating": {}
+                },
+                "offerIds": [
+                    "7f9002ab-5637-47fe-aacd-940f1759b131"
+                ]
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+        }
+    },
+    {
+        "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+                "id": "153756011",
+                "name": "Moong Dal Burfi",
+                "category": "Sweets",
+                "description": "A delectable and indulgent Indian sweet made with Moong Dal, perfect for satisfying your sweet tooth.",
+                "imageId": "twqser2tnyotuyk2awbh",
+                "inStock": 1,
+                "isVeg": 1,
+                "price": 28600,
+                "finalPrice": 25700,
+                "variants": {
+                    "variantGroups": [
+                        {
+                            "groupId": "49823926",
+                            "name": "Quantity",
+                            "variations": [
+                                {
+                                    "name": "1 Kg",
+                                    "price": 28600,
+                                    "default": 1,
+                                    "id": "156321246",
+                                    "inStock": 1,
+                                    "isVeg": 1,
+                                    "isEnabled": 1
+                                },
+                                {
+                                    "name": "500 Gms",
+                                    "id": "156321247",
+                                    "inStock": 1,
+                                    "isVeg": 1,
+                                    "isEnabled": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "variantsV2": {},
+                "itemAttribute": {
+                    "vegClassifier": "VEG"
+                },
+                "ribbon": {},
+                "showImage": true,
+                "offerTags": [
+                    {
+                        "title": "10% OFF",
+                        "textColor": "#DB6742",
+                        "backgroundColor": "#FAE8E3",
+                        "matchText": "SILD"
+                    }
+                ],
+                "itemBadge": {},
+                "badgesV2": {},
+                "itemNudgeType": "CouponlessSild",
+                "ratings": {
+                    "aggregatedRating": {}
+                },
+                "offerIds": [
+                    "7f9002ab-5637-47fe-aacd-940f1759b131"
+                ]
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+        }
+    },
+    {
+        "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+                "id": "153800594",
+                "name": "Special Patisa",
+                "category": "Sweets",
+                "description": "A delectable and unique sweet treat with a touch of specialness.",
+                "imageId": "zkidtpsla1hbmgk0saze",
+                "inStock": 1,
+                "isVeg": 1,
+                "price": 28600,
+                "finalPrice": 25700,
+                "variants": {
+                    "variantGroups": [
+                        {
+                            "groupId": "49835217",
+                            "name": "Quantity",
+                            "variations": [
+                                {
+                                    "name": "500 G",
+                                    "default": 1,
+                                    "id": "156345138",
+                                    "inStock": 1,
+                                    "isVeg": 1,
+                                    "isEnabled": 1
+                                },
+                                {
+                                    "name": "1 Kg",
+                                    "price": 28600,
+                                    "id": "156345139",
+                                    "inStock": 1,
+                                    "isVeg": 1,
+                                    "isEnabled": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "variantsV2": {},
+                "itemAttribute": {
+                    "vegClassifier": "VEG"
+                },
+                "ribbon": {},
+                "showImage": true,
+                "offerTags": [
+                    {
+                        "title": "10% OFF",
+                        "textColor": "#DB6742",
+                        "backgroundColor": "#FAE8E3",
+                        "matchText": "SILD"
+                    }
+                ],
+                "itemBadge": {},
+                "badgesV2": {},
+                "itemNudgeType": "CouponlessSild",
+                "ratings": {
+                    "aggregatedRating": {}
+                },
+                "offerIds": [
+                    "7f9002ab-5637-47fe-aacd-940f1759b131"
+                ]
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+        }
+    },
+    {
+        "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+                "id": "153801390",
+                "name": "Special Pinni",
+                "category": "Sweets",
+                "imageId": "ynyctp68hghieu874zpe",
+                "inStock": 1,
+                "isVeg": 1,
+                "price": 31400,
+                "finalPrice": 28300,
+                "variants": {
+                    "variantGroups": [
+                        {
+                            "groupId": "49835417",
+                            "name": "Quantity",
+                            "variations": [
+                                {
+                                    "name": "1 Kg",
+                                    "price": 31400,
+                                    "default": 1,
+                                    "id": "156345726",
+                                    "inStock": 1,
+                                    "isVeg": 1,
+                                    "isEnabled": 1
+                                },
+                                {
+                                    "name": "500 Gms",
+                                    "id": "156345727",
+                                    "inStock": 1,
+                                    "isVeg": 1,
+                                    "isEnabled": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "variantsV2": {},
+                "itemAttribute": {
+                    "vegClassifier": "VEG"
+                },
+                "ribbon": {},
+                "showImage": true,
+                "offerTags": [
+                    {
+                        "title": "10% OFF",
+                        "textColor": "#DB6742",
+                        "backgroundColor": "#FAE8E3",
+                        "matchText": "SILD"
+                    }
+                ],
+                "itemBadge": {},
+                "badgesV2": {},
+                "itemNudgeType": "CouponlessSild",
+                "ratings": {
+                    "aggregatedRating": {}
+                },
+                "offerIds": [
+                    "7f9002ab-5637-47fe-aacd-940f1759b131"
+                ]
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+        }
+    },
+    {
+        "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+                "id": "153806212",
+                "name": "Kaju Gujia",
+                "category": "Sweets",
+                "description": "A delectable vegetarian sweet that will satisfy your cravings with its irresistible flavors.",
+                "imageId": "dvd010yzvllidcvwzxdc",
+                "inStock": 1,
+                "isVeg": 1,
+                "price": 31900,
+                "finalPrice": 28700,
+                "variants": {
+                    "variantGroups": [
+                        {
+                            "groupId": "49836052",
+                            "name": "Quantity",
+                            "variations": [
+                                {
+                                    "name": "250 G",
+                                    "default": 1,
+                                    "id": "156347148",
+                                    "inStock": 1,
+                                    "isVeg": 1,
+                                    "isEnabled": 1
+                                },
+                                {
+                                    "name": "500 G",
+                                    "price": 31900,
+                                    "id": "156347149",
+                                    "inStock": 1,
+                                    "isVeg": 1,
+                                    "isEnabled": 1
+                                },
+                                {
+                                    "name": "1 Kg",
+                                    "price": 95700,
+                                    "id": "156347150",
+                                    "inStock": 1,
+                                    "isVeg": 1,
+                                    "isEnabled": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "variantsV2": {},
+                "itemAttribute": {
+                    "vegClassifier": "VEG"
+                },
+                "ribbon": {},
+                "showImage": true,
+                "offerTags": [
+                    {
+                        "title": "10% OFF",
+                        "textColor": "#DB6742",
+                        "backgroundColor": "#FAE8E3",
+                        "matchText": "SILD"
+                    }
+                ],
+                "itemBadge": {},
+                "badgesV2": {},
+                "itemNudgeType": "CouponlessSild",
+                "ratings": {
+                    "aggregatedRating": {}
+                },
+                "offerIds": [
+                    "7f9002ab-5637-47fe-aacd-940f1759b131"
+                ]
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+        }
+    },
+    {
+        "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+                "id": "153806859",
+                "name": "Kaju Kalash",
+                "category": "Sweets",
+                "description": "A delectable and indulgent vegetarian sweet that will leave your taste buds satisfied.",
+                "imageId": "qerc5nnifgdtmnqx4xhx",
+                "inStock": 1,
+                "isVeg": 1,
+                "price": 35200,
+                "finalPrice": 31700,
+                "variants": {
+                    "variantGroups": [
+                        {
+                            "groupId": "49836404",
+                            "name": "Quantity",
+                            "variations": [
+                                {
+                                    "name": "250 G",
+                                    "default": 1,
+                                    "id": "156347980",
+                                    "inStock": 1,
+                                    "isVeg": 1,
+                                    "isEnabled": 1
+                                },
+                                {
+                                    "name": "500 G",
+                                    "price": 35200,
+                                    "id": "156347981",
+                                    "inStock": 1,
+                                    "isVeg": 1,
+                                    "isEnabled": 1
+                                },
+                                {
+                                    "name": "1 Kg",
+                                    "price": 105600,
+                                    "id": "156347982",
+                                    "inStock": 1,
+                                    "isVeg": 1,
+                                    "isEnabled": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "variantsV2": {},
+                "itemAttribute": {
+                    "vegClassifier": "VEG"
+                },
+                "ribbon": {},
+                "showImage": true,
+                "offerTags": [
+                    {
+                        "title": "10% OFF",
+                        "textColor": "#DB6742",
+                        "backgroundColor": "#FAE8E3",
+                        "matchText": "SILD"
+                    }
+                ],
+                "itemBadge": {},
+                "badgesV2": {},
+                "itemNudgeType": "CouponlessSild",
+                "ratings": {
+                    "aggregatedRating": {}
+                },
+                "offerIds": [
+                    "7f9002ab-5637-47fe-aacd-940f1759b131"
+                ]
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+        }
+    },
+    {
+        "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+                "id": "153807222",
+                "name": "Kaju Roll",
+                "category": "Sweets",
+                "description": "Indulge in a delectable and delightful sweet treat that will satisfy your cravings with its rich and irresistible flavors.",
+                "imageId": "o56l5xtua7cugonaloek",
+                "inStock": 1,
+                "isVeg": 1,
+                "price": 31700,
+                "finalPrice": 28500,
+                "variants": {
+                    "variantGroups": [
+                        {
+                            "groupId": "49836273",
+                            "name": "Quantity",
+                            "variations": [
+                                {
+                                    "name": "250 G",
+                                    "default": 1,
+                                    "id": "156347580",
+                                    "inStock": 1,
+                                    "isVeg": 1,
+                                    "isEnabled": 1
+                                },
+                                {
+                                    "name": "500 G",
+                                    "price": 31700,
+                                    "id": "156347581",
+                                    "inStock": 1,
+                                    "isVeg": 1,
+                                    "isEnabled": 1
+                                },
+                                {
+                                    "name": "1 Kg",
+                                    "price": 95100,
+                                    "id": "156347582",
+                                    "inStock": 1,
+                                    "isVeg": 1,
+                                    "isEnabled": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "variantsV2": {},
+                "itemAttribute": {
+                    "vegClassifier": "VEG"
+                },
+                "ribbon": {},
+                "showImage": true,
+                "offerTags": [
+                    {
+                        "title": "10% OFF",
+                        "textColor": "#DB6742",
+                        "backgroundColor": "#FAE8E3",
+                        "matchText": "SILD"
+                    }
+                ],
+                "itemBadge": {},
+                "badgesV2": {},
+                "itemNudgeType": "CouponlessSild",
+                "ratings": {
+                    "aggregatedRating": {}
+                },
+                "offerIds": [
+                    "7f9002ab-5637-47fe-aacd-940f1759b131"
+                ]
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+        }
+    },
+    {
+        "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+                "id": "153808061",
+                "name": "Kalakand",
+                "category": "Sweets",
+                "description": "A delectable Indian sweet that's rich, creamy, and melts in your mouth.",
+                "imageId": "ddrjkh6osd8m3i6vok2g",
+                "inStock": 1,
+                "isVeg": 1,
+                "price": 34800,
+                "finalPrice": 31300,
+                "variants": {
+                    "variantGroups": [
+                        {
+                            "groupId": "49836422",
+                            "name": "Quantity",
+                            "variations": [
+                                {
+                                    "name": "500 G",
+                                    "default": 1,
+                                    "id": "156348018",
+                                    "inStock": 1,
+                                    "isVeg": 1,
+                                    "isEnabled": 1
+                                },
+                                {
+                                    "name": "1 Kg",
+                                    "price": 34800,
+                                    "id": "156348019",
+                                    "inStock": 1,
+                                    "isVeg": 1,
+                                    "isEnabled": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "variantsV2": {},
+                "itemAttribute": {
+                    "vegClassifier": "VEG"
+                },
+                "ribbon": {},
+                "showImage": true,
+                "offerTags": [
+                    {
+                        "title": "10% OFF",
+                        "textColor": "#DB6742",
+                        "backgroundColor": "#FAE8E3",
+                        "matchText": "SILD"
+                    }
+                ],
+                "itemBadge": {},
+                "badgesV2": {},
+                "itemNudgeType": "CouponlessSild",
+                "ratings": {
+                    "aggregatedRating": {
+                        "rating": "5.0",
+                        "ratingCount": "3 ratings",
+                        "ratingCountV2": "3"
+                    }
+                },
+                "offerIds": [
+                    "7f9002ab-5637-47fe-aacd-940f1759b131"
+                ]
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+        }
+    },
+    {
+        "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+                "id": "153808748",
+                "name": "Khoya Chocolate Burfi",
+                "category": "Sweets",
+                "description": "Indulge in the rich and decadent flavors of this melt-in-your-mouth sweet treat.",
+                "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/11/2/c18a1be2-6ef7-4175-88af-a73889839aae_0fb08556-376e-436a-8248-6d6246c7331f.jpeg",
+                "inStock": 1,
+                "isVeg": 1,
+                "price": 32400,
+                "finalPrice": 29200,
+                "variants": {
+                    "variantGroups": [
+                        {
+                            "groupId": "49837025",
+                            "name": "Quantity",
+                            "variations": [
+                                {
+                                    "name": "500 G",
+                                    "default": 1,
+                                    "id": "156349741",
+                                    "inStock": 1,
+                                    "isVeg": 1,
+                                    "isEnabled": 1
+                                },
+                                {
+                                    "name": "1 Kg",
+                                    "price": 32400,
+                                    "id": "156349742",
+                                    "inStock": 1,
+                                    "isVeg": 1,
+                                    "isEnabled": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "variantsV2": {},
+                "itemAttribute": {
+                    "vegClassifier": "VEG"
+                },
+                "ribbon": {},
+                "showImage": true,
+                "offerTags": [
+                    {
+                        "title": "10% OFF",
+                        "textColor": "#DB6742",
+                        "backgroundColor": "#FAE8E3",
+                        "matchText": "SILD"
+                    }
+                ],
+                "itemBadge": {},
+                "badgesV2": {},
+                "itemNudgeType": "CouponlessSild",
+                "ratings": {
+                    "aggregatedRating": {}
+                },
+                "offerIds": [
+                    "7f9002ab-5637-47fe-aacd-940f1759b131"
+                ]
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+        }
+    },
+    {
+        "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+                "id": "153810813",
+                "name": "Khoya Kesar Peda",
+                "category": "Sweets",
+                "description": "Indulge in the rich and aromatic flavors of this delectable vegetarian sweet treat, crafted with love and care.",
+                "imageId": "7e1686fc7ea62d82458012468ffb37b4",
+                "inStock": 1,
+                "isVeg": 1,
+                "price": 32400,
+                "finalPrice": 29200,
+                "variants": {
+                    "variantGroups": [
+                        {
+                            "groupId": "49837411",
+                            "name": "Quantity",
+                            "variations": [
+                                {
+                                    "name": "500 G",
+                                    "default": 1,
+                                    "id": "156350622",
+                                    "inStock": 1,
+                                    "isVeg": 1,
+                                    "isEnabled": 1
+                                },
+                                {
+                                    "name": "1 Kg",
+                                    "price": 32400,
+                                    "id": "156350623",
+                                    "inStock": 1,
+                                    "isVeg": 1,
+                                    "isEnabled": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "variantsV2": {},
+                "itemAttribute": {
+                    "vegClassifier": "VEG"
+                },
+                "ribbon": {},
+                "showImage": true,
+                "offerTags": [
+                    {
+                        "title": "10% OFF",
+                        "textColor": "#DB6742",
+                        "backgroundColor": "#FAE8E3",
+                        "matchText": "SILD"
+                    }
+                ],
+                "itemBadge": {},
+                "badgesV2": {},
+                "itemNudgeType": "CouponlessSild",
+                "ratings": {
+                    "aggregatedRating": {}
+                },
+                "offerIds": [
+                    "7f9002ab-5637-47fe-aacd-940f1759b131"
+                ]
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+        }
+    },
+    {
+        "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+                "id": "49001744",
+                "name": "Plain Dosa",
+                "category": "South Indian",
+                "description": "Serves 1 | Crispy rice crepes served with lentil-based vegetable stew & coconut chutney.",
+                "imageId": "hdiml0ovwck2uolscbfr",
+                "inStock": 1,
+                "isVeg": 1,
+                "price": 14000,
+                "finalPrice": 12600,
+                "variants": {},
+                "variantsV2": {},
+                "itemAttribute": {
+                    "vegClassifier": "VEG",
+                    "portionSize": "Serves 1"
+                },
+                "ribbon": {},
+                "showImage": true,
+                "offerTags": [
+                    {
+                        "title": "10% OFF",
+                        "textColor": "#DB6742",
+                        "backgroundColor": "#FAE8E3",
+                        "matchText": "SILD"
+                    }
+                ],
+                "itemBadge": {},
+                "badgesV2": {},
+                "itemNudgeType": "CouponlessSild",
+                "ratings": {
+                    "aggregatedRating": {
+                        "rating": "4.5",
+                        "ratingCount": "12 ratings",
+                        "ratingCountV2": "12"
+                    }
+                },
+                "offerIds": [
+                    "7f9002ab-5637-47fe-aacd-940f1759b131"
+                ]
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+        }
+    },
+    {
+        "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+                "id": "49001747",
+                "name": "Masala Dosa",
+                "category": "South Indian",
+                "description": "Deliciously crispy dosa with a generous spread of fresh butter, spicy chutney, onions, served with sambhar and chutney.",
+                "imageId": "bnpsjqgco4jd28p65azi",
+                "inStock": 1,
+                "isVeg": 1,
+                "price": 18500,
+                "finalPrice": 16700,
+                "variants": {},
+                "variantsV2": {},
+                "itemAttribute": {
+                    "vegClassifier": "VEG"
+                },
+                "ribbon": {},
+                "showImage": true,
+                "offerTags": [
+                    {
+                        "title": "10% OFF",
+                        "textColor": "#DB6742",
+                        "backgroundColor": "#FAE8E3",
+                        "matchText": "SILD"
+                    }
+                ],
+                "itemBadge": {},
+                "badgesV2": {},
+                "itemNudgeType": "CouponlessSild",
+                "ratings": {
+                    "aggregatedRating": {
+                        "rating": "4.0",
+                        "ratingCount": "134 ratings",
+                        "ratingCountV2": "134"
+                    }
+                },
+                "offerIds": [
+                    "7f9002ab-5637-47fe-aacd-940f1759b131"
+                ]
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+        }
+    }
+]
