@@ -33,24 +33,25 @@ git clone https://github.com/your-username/Foodiez.git
 cd Foodiez
 npm install
 npm start
+```
 
 ---
 
 ## Upcoming Features
 
--- **Cart Functionality**
--- **Authentication (Login/Signup)**
--- **Payment Integration**
--- **Location-based suggestions**
+- **Cart Functionality**
+- **Authentication (Login/Signup)**
+- **Payment Integration**
+- **Location-based suggestions**
 
 
 ---
 
 ## License
--- **MIT License © 2025 [Vishal Singh]**
+- **MIT License © 2025 [Vishal Singh]**
 
 ---
 ## Acknowledgements
--- **Inspired by modern food delivery apps**
--- **Unsplash for placeholder images**
--- **Swiggy/Zomato UI for inspiration**
+- **Inspired by modern food delivery apps**
+- **Unsplash for placeholder images**
+- **Swiggy/Zomato UI for inspiration**
